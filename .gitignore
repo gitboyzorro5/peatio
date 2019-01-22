@@ -30,7 +30,7 @@ tmp
 /config/management_api_v1.yml
 /config/secrets
 /config/seed
-
+/config/database.yml
 # Ignore translations.js
 /public/javascripts/translations.js
 
